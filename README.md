@@ -11,7 +11,7 @@ I have been studying coding since I was in the final year of vocational school i
 * ✉️  You can contact me at [fajarfadillahagustian@gmail.com](mailto:fajarfadillahagustian@gmail.com)
 * 🚀  I'm currently working on [ZIEDU - Web-based Digital Applications For The Education Ecosystem](http://https://ziedu-dashboard.vercel.app/)
 * 🧠  I'm learning Javascript/Typescript, React, Nextjs, Tailwindcss, and more 🌱
-* 🤝  I'm open to collaborating on I am very open to those of you who need help working on a project 🤠. Don't be shy to contact me if you need additions to your team 😙.
+* 🤝  I'm open to collaborating on those of you who need help working on a project 🤠. Don't be shy to contact me if you need additions to your team 😙.
 * ⚡  Don't tell anyone, actually inside my body there is a dragon 🐉🐲
 
 ### Skills
