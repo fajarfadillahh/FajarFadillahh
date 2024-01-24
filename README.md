@@ -14,8 +14,8 @@ I have been studying coding since I was in the final year of vocational school i
 * 🤝  I'm open to collaborating on I am very open to those of you who need help working on a project 🤠. Don't be shy to contact me if you need additions to your team 😙.
 * ⚡  Don't tell anyone, actually inside my body there is a dragon 🐉🐲
 
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
+<a href="https://www.github.com/fajarfadillahh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/fajarfadillahh?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -25,12 +25,16 @@ src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&co
 </p>
 
 
+### Socials
+
+<p align="left"> <a href="https://www.github.com/fajarfadillahh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
+<a href="http://www.github.com/fajarfadillahh"><img src="https://github-readme-stats.vercel.app/api?username=fajarfadillahh&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="fajarfadillahh's GitHub stats" /></a>
 
-<a href="http://www.github.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/fajarfadillahh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fajarfadillahh&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/fajarfadillahh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarfadillahh&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
